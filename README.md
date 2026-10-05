@@ -66,3 +66,11 @@ and computes **RFM scores** per customer (recency, frequency, monetary quintiles
 | Dates show as text | set `invoice_date` type to Date (YYYYMMDD) in the data source editor |
 | Map is blank | set `country` type to Geo -> Country |
 | Blended chart shows nothing | join key `customer_id` must be Text in both sources |
+
+## Dashboard
+<img width="1917" height="1010" alt="Screenshot 2026-10-06 040955" src="https://github.com/user-attachments/assets/a2bb2f8f-2537-47c3-8518-29e28f989344" />
+
+<img width="1917" height="1027" alt="Screenshot 2026-10-06 041214" src="https://github.com/user-attachments/assets/14cb781f-764c-4130-9799-035828d1e741" />
+
+
+
